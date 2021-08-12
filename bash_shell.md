@@ -2,7 +2,7 @@
 ## Command line to use the terminal
 # Monica Hernandez
 2°c Robotics
-This command line is used on linux
+This command line is used on linux.
 
 ## What is the markdown?
 A document in which we can write about our program like our code, process, etc.
