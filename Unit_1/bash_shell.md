@@ -33,7 +33,7 @@ cd Documents
 ```
 
 # ls
-ls is a command used to view the folder list about the directory
+it is a command used to view the folder list about the directory
 
 ```sh
 ls
